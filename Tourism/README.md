@@ -25,7 +25,13 @@ For the following three questions, explain both how to fix the error/bug and why
 
 ## Exercise (10 Points)
 
+Make sure to first run `update-database` to populate the `Tourism` database used by this application.
 
+This application already has the `Index` route for States.
+
+Your task is to do the following:
+1. Add the `Show` RESTful route to display the name and abbreviation for a particular state.
+1. Add a test for your new `Show` route in the `StateCRUDTests.cs` file.
 
 ### Submission
 * Submit the Assessment Submission form linked in your cohort slack channel!
