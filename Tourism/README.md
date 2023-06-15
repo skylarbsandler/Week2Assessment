@@ -1,9 +1,5 @@
 # Launch Mod 3 Week 2 Assessment
 
-### Setup
-* Fork this repository
-* Clone this repository
-
 ## Questions (10 Points)
 
 1. Define MVC and explain the purpose of each of the three parts of this pattern.
@@ -32,11 +28,3 @@ This application already has the `Index` route for States.
 Your task is to do the following:
 1. Add the `Show` RESTful route to display the name and abbreviation for a particular state.
 1. Add a test for your new `Show` route in the `StateCRUDTests.cs` file.
-
-### Submission
-* Submit the Assessment Submission form linked in your cohort slack channel!
-
-## Rubric
-This assessment has a total of 20 Points. Earning 14 or more points is a pass and will indicate that you are progressing well with the material.
-
-As a reminder, this assessment is for students and instructors to determine if there are any areas that need additional reinforcement!
